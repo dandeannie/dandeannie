@@ -1,8 +1,8 @@
 <!-- Header -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="Cat Working on a Computer">
 </div>
-
+-->
 # ✨ Welcome to Annie's Coding Corner 💻 🚀  
 
 ---
